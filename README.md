@@ -1,0 +1,1 @@
+## Aplikasi Android dengan implementasi database SQLite sederhana
